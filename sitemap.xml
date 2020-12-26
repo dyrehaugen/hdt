@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/blog/alerts/</loc>
+  </url>
+  
+  <url>
+    <loc>/tweet/alerts/</loc>
+  </url>
+  
+  <url>
+    <loc>/issues/env/bd/</loc>
+  </url>
+  
+  <url>
+    <loc>/issues/cap/</loc>
+  </url>
+  
+  <url>
+    <loc>/issues/cap/capitalism/</loc>
+  </url>
+  
+  <url>
+    <loc>/issues/clm/</loc>
+  </url>
+  
+  <url>
+    <loc>/issues/env/</loc>
+  </url>
+  
+  <url>
+    <loc>/issues/</loc>
+  </url>
+  
+  <url>
+    <loc>/issues/env/po/</loc>
+  </url>
+  
+  <url>
+    <loc>/issues/urb/</loc>
+  </url>
+  
+  <url>
+    <loc>/issues/env/bd/biodiversity/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/buttons/</loc>
+  </url>
+  
+  <url>
+    <loc>/tweet/buttons/</loc>
+  </url>
+  
+  <url>
+    <loc>/issues/clm/climate/</loc>
+  </url>
+  
+  <url>
+    <loc>/issues/env/environment/</loc>
+  </url>
+  
+  <url>
+    <loc>/news/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/childpages/</loc>
+  </url>
+  
+  <url>
+    <loc>/tweet/childpages/</loc>
+  </url>
+  
+  <url>
+    <loc>/tweet/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/code/</loc>
+  </url>
+  
+  <url>
+    <loc>/tweet/code/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/collapse/</loc>
+  </url>
+  
+  <url>
+    <loc>/tweet/collapse/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/doublecode/</loc>
+  </url>
+  
+  <url>
+    <loc>/tweet/doublecode/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/lead/</loc>
+  </url>
+  
+  <url>
+    <loc>/tweet/lead/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/panel/</loc>
+  </url>
+  
+  <url>
+    <loc>/tweet/panel/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/table/</loc>
+  </url>
+  
+  <url>
+    <loc>/tweet/table/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

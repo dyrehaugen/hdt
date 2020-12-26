@@ -1,0 +1,9 @@
+gitpat
+git add .
+git status
+git commit -m "content update"
+git push github master
+# username on github: dyrehaugen
+# repo:jus
+# pwd: S-7
+gitpat.unset
